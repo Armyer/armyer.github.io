@@ -850,7 +850,7 @@ pre code {
   bottom: 0;
   left: 0;
   z-index: 2;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 1.0);
 }
 
 .content {
