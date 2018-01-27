@@ -72,7 +72,9 @@ author: armyer # Add name author (optional)
 <h4>最好时间复杂度：在最好情况下，算法的时间复杂度</h4>
 <h4>平均时间复杂度：是指在所有可能输出入实例等概率出现情况下，算法的期望运行时间</h4>
 **加法规则：T(n)=T1(n)+T2(n)=O(f(n)+O(g(n))=O(max(f(n),g(n))**
+
 **乘法规则：T(n) = T1(n)*T2(n)=O(f(n))*O(g(n))=O(f(n)*g(n))**
+
 **常见的渐近时间复杂度：![时间复杂度](http://img.blog.csdn.net/20170811094757528?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzE2MTQ5NDc=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)**
 
 
